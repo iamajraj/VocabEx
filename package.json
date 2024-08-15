@@ -35,6 +35,10 @@
 	"dependencies": {
 		"bits-ui": "^0.21.13",
 		"clsx": "^2.1.1",
+		"mode-watcher": "^0.4.1",
+		"moment": "^2.30.1",
+		"svelte-radix": "^1.1.0",
+		"svelte-sonner": "^0.3.27",
 		"tailwind-merge": "^2.5.2",
 		"tailwind-variants": "^0.2.1"
 	}
