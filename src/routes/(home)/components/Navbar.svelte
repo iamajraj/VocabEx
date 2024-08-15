@@ -2,7 +2,7 @@
 	import { Button } from '$lib/components/ui/button';
 	import * as Dialog from '$lib/components/ui/dialog';
 
-	let open: boolean = true;
+	let open: boolean = false;
 
 	const openAbout = () => {
 		open = true;
