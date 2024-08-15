@@ -41,9 +41,7 @@
 		<Dialog.Content>
 			<Dialog.Header>
 				<Dialog.Title>Add New Word to your Vocabulary</Dialog.Title>
-				<Dialog.Description>
-					This will add a new word to your vocabulary. You can add multiple words at a time.
-				</Dialog.Description>
+				<Dialog.Description>This will add a new word to your vocabulary.</Dialog.Description>
 			</Dialog.Header>
 			<div class="grid gap-4 py-4">
 				<div class="grid grid-cols-4 items-center gap-4">
