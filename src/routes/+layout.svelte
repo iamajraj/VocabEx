@@ -14,5 +14,9 @@
 	});
 </script>
 
+<svelte:head>
+	<title>VocabEx - Store your vocabulary</title>
+	<meta name="description" content="VocabEx - Store your vocabulary" />
+</svelte:head>
 <Toaster />
 <slot />
